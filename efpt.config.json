@@ -1,0 +1,57 @@
+﻿{
+   "ContextClassName": "TitlesContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "WarnerMediaAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Award]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Genre]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[OtherName]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Participant]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[StoryLine]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Title]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[TitleGenre]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[TitleParticipant]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}

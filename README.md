@@ -23,7 +23,7 @@ Setup:
 
 Next.JS
 
-- Tools you need: VS Code (https://code.visualstudio.com/download), Node (>=v10.13) (https://nodejs.org/en/download/)
+- Tools you need: VS Code (https://code.visualstudio.com/download) (make sure to include .Net Core 3.1 in the installation), Node (>=v10.13) (https://nodejs.org/en/download/)
 - Once you have both installed, (and the repository cloned from github - help here if necessary: https://code.visualstudio.com/docs/editor/github)
 - Open the terminal and run: npm run dev
 - At this point, the terminal should have some kind of 'event - compiled successfully' and eventually stop saying anything
